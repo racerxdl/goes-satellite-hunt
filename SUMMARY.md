@@ -20,4 +20,10 @@
   * [Encoding the sync word](frame-decoder/encoding-the-sync-word.md)
   * [Frame Synchronization](frame-decoder/frame-synchronization.md)
   * [Decoding Frame Data](frame-decoder/decoding-frame-data.md)
+* [Packet Demuxer](packet-demuxer.md)
+  * [De-randomization of the data](packet-demuxer/de-randomization-of-the-data.md)
+  * [Reed Solomon Error Correction](packet-demuxer/reed-solomon-error-correction.md)
+  * [Virtual Channel Demuxer](packet-demuxer/virtual-channel-demuxer.md)
+  * [Packet Demuxer](packet-demuxer/packet-demuxer.md)
+  * [Saving the Raw Packet](packet-demuxer/saving-the-raw-packet.md)
 
