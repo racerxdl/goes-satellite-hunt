@@ -11,7 +11,7 @@
   * [Binary Phase Shift Keying Modulation](the-demodulator/demodulator-in-gnu-radio.md)
   * [Demodulating BPSK Signal](the-demodulator/demodulating-bpsk-signal.md)
   * [GNU Radio Flow](the-demodulator/gnu-radio-flow.md)
-  * Decimating and filtering to desired sample rate
+  * [Decimating and filtering to desired sample rate](the-demodulator/decimating-and-filtering-to-desired-sample-rate.md)
   * [Automatic Gain Control and Root Raised Cosine Filter](the-demodulator/automatic-gain-control-and-root-raised-cosine-filter.md)
   * [Synchronization and Clock Recovery](the-demodulator/synchronization-and-clock-recovery.md)
   * [Symbol Output from GNU Radio](the-demodulator/symbol-output-from-gnu-radio.md)
