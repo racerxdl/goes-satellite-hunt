@@ -7,4 +7,17 @@
   * [Dish Feed](the-hardware-setup/dish-feed.md)
   * [LNA and Filter](the-hardware-setup/lna-and-filter.md)
   * [Pointing the Antenna](the-hardware-setup/pointing-the-antenna.md)
+* [The Demodulator](the-demodulator.md)
+  * [Binary Phase Shift Keying Modulation](the-demodulator/demodulator-in-gnu-radio.md)
+  * [Demodulating BPSK Signal](the-demodulator/demodulating-bpsk-signal.md)
+  * [GNU Radio Flow](the-demodulator/gnu-radio-flow.md)
+  * Decimating and filtering to desired sample rate
+  * [Automatic Gain Control and Root Raised Cosine Filter](the-demodulator/automatic-gain-control-and-root-raised-cosine-filter.md)
+  * [Synchronization and Clock Recovery](the-demodulator/synchronization-and-clock-recovery.md)
+  * [Symbol Output from GNU Radio](the-demodulator/symbol-output-from-gnu-radio.md)
+* [Frame Decoder](frame-decoder.md)
+  * [Convolution Encoding, Frame Synchronization and Viterbi](frame-decoder/convolution-encoding-frame-synchronization-and-viterbi.md)
+  * [Encoding the sync word](frame-decoder/encoding-the-sync-word.md)
+  * [Frame Synchronization](frame-decoder/frame-synchronization.md)
+  * [Decoding Frame Data](frame-decoder/decoding-frame-data.md)
 

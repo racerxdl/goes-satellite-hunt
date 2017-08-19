@@ -4,3 +4,5 @@ This book is adaptation of my blog post [GOES Satellite Hunt](http://www.teske.n
 
 I also need to thank all people in \#hearsat @ starchat \(IRC\) for the help I got understanding SDR and Satellite Signal stuff, since when I started that I had no knowledge at all about it. Special thanks for trango \([@usa-satcom](https://twitter.com/usa_satcom)\) and mybit \([@devnulling](https://twitter.com/devnulling)\) for all the help with previous experiences in the area. Also I need to thank all my family for supporting it putting several dishes and antennas all over the roof of our house.
 
+The study in this book lead to the creation of [Open Satellite Project](https://github.com/opensatelliteproject).
+
