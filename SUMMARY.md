@@ -26,4 +26,10 @@
   * [Virtual Channel Demuxer](packet-demuxer/virtual-channel-demuxer.md)
   * [Packet Demuxer](packet-demuxer/packet-demuxer.md)
   * [Saving the Raw Packet](packet-demuxer/saving-the-raw-packet.md)
+* [File Assembler](file-assembler.md)
+  * [File Header Processing](file-assembler/file-header-processing.md)
+  * [LritRice Compression](file-assembler/lritrice-compression.md)
+  * [File Name from Header](file-assembler/file-name-from-header.md)
+  * [Viewing the files content](file-assembler/viewing-the-files-content.md)
+* [Ending](ending.md)
 
