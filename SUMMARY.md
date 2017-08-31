@@ -42,10 +42,10 @@
     * [6 - Ancillary Text](file-types/lrit-header-description/6-ancillary-text.md)
     * [7 - Key Header](file-types/lrit-header-description/7-key-header.md)
     * [128 - Segment Identification Header](file-types/lrit-header-description/128-segment-identification-header.md)
-    * 129 - NOAA Specific Header
-    * 130 - Header Structured Record
-    * 131 - Rice Compression Record
-    * 132 - DCS Filename Record
+    * [129 - NOAA Specific Header](file-types/lrit-header-description/129-noaa-specific-header.md)
+    * [130 - Header Structured Record](file-types/lrit-header-description/130-header-structured-record.md)
+    * [131 - Rice Compression Record](file-types/lrit-header-description/131-rice-compression-record.md)
+    * [132 - DCS Filename Record](file-types/lrit-header-description/132-dcs-filename-record.md)
 * [Ending](ending.md)
 * [References](references.md)
   * [Tables](references/tables.md)
