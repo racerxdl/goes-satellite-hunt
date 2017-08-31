@@ -15,3 +15,12 @@
 13. [Segment Identification Header Fields](/file-types/lrit-header-description/128-segment-identification-header.md#table-13---segment-identification-header-fields)
 14. [NOAA Specific Header Fields](/file-types/lrit-header-description/129-noaa-specific-header.md#table-14---noaa-specific-header-fields)
 15. [NOAA Specific Header Compression Type Enum](/file-types/lrit-header-description/129-noaa-specific-header.md#table-15---noaa-specific-header-compression-type-enum)
+16. NOAA Product ID Enum
+
+17. Header Structured Record Fields
+18. Rice Compression Record Fields
+
+19. DCS Filename Record
+
+
+
