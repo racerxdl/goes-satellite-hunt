@@ -31,5 +31,22 @@
   * [LritRice Compression](file-assembler/lritrice-compression.md)
   * [File Name from Header](file-assembler/file-name-from-header.md)
   * [Viewing the files content](file-assembler/viewing-the-files-content.md)
+* [File Types](file-types.md)
+  * [LRIT Header Description](file-types/lrit-header-description.md)
+    * [0 - Primary Header](file-types/lrit-header-description/primary-header.md)
+    * [1 - Image Structure Header](file-types/lrit-header-description/1-image-structure-header.md)
+    * [2 - Image Navigation Record](file-types/lrit-header-description/2-image-navigation-record.md)
+    * [3 - Image Data Function Record](file-types/lrit-header-description/3-image-data-function-record.md)
+    * [4 - Annotation Record](file-types/lrit-header-description/4-annotation-record.md)
+    * [5 - Timestamp Record](file-types/lrit-header-description/5-timestamp-record.md)
+    * [6 - Ancillary Text](file-types/lrit-header-description/6-ancillary-text.md)
+    * [7 - Key Header](file-types/lrit-header-description/7-key-header.md)
+    * [128 - Segment Identification Header](file-types/lrit-header-description/128-segment-identification-header.md)
+    * 129 - NOAA Specific Header
+    * 130 - Header Structured Record
+    * 131 - Rice Compression Record
+    * 132 - DCS Filename Record
 * [Ending](ending.md)
+* [References](references.md)
+  * [Tables](references/tables.md)
 
